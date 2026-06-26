@@ -1,0 +1,9 @@
+{
+  "name": "html-anything",
+  "version": "1.0.0",
+  "description": "Agentic HTML editor",
+    "dev": "next dev",
+    "build": "next build"
+    "next": "^14.0.0",
+    "react": "^18.2.0"
+}
